@@ -1,4 +1,4 @@
-import.time
+import time
 okl=inpit("Продолжить? : ")
 time.sleep(2)
 print("Имя - Алекперов Элвин")
